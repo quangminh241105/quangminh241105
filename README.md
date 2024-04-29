@@ -11,7 +11,7 @@ I'm an IT freshman studying at RMIT University!
 <div> <a href="https://twitter.com/quang_minh2411" target="_blank"><img
 src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
 target="_blank"></a>
-<a href="https://github.com/quangminh24112005" target="_blank"><img
+<a href="https://github.com/quangminh241105" target="_blank"><img
 src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
 target="_blank"></a>
 <a href="https://instagram.com/qminh1142" target="_blank"><img
@@ -73,24 +73,24 @@ Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-t
 <br><br>
 <h3 align="center">⚡Activity Graph⚡</h3>
 <img align="center"
-src="https://github-readme-activity-graph.vercel.app/graph?username=quangminh24112005&theme=modern-lilac" />
+src="https://github-readme-activity-graph.vercel.app/graph?username=quangminh241105&theme=modern-lilac" />
 
 <h3 align="center">⚡Statistics⚡</h3>
 <div align="center">
 <img align="center"
-src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=quangminh24112005&theme=2077"
+src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=quangminh241105&theme=2077"
 height="180em" />
 <img align="center"
-src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=quangminh24112005&theme=2077"
+src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=quangminh241105&theme=2077"
 height="180em" />
 <img align="center"
-src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quangminh24112005&theme=2077"
+src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quangminh241105&theme=2077"
 height="180em" />
 <img align="center"
-src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quangminh24112005&theme=2077"
+src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quangminh241105&theme=2077"
 height="180em" />
 <img align="center"
-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quangminh24112005&theme=2077"
+src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quangminh241105&theme=2077"
 height="180em" />
 </div>
 <br><br>
