@@ -73,7 +73,7 @@ Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-t
 <br><br>
 <h3 align="center">⚡Activity Graph⚡</h3>
 <img align="center"
-src="https://github-readme-activity-graph.vercel.app/graph?username=quangminh241105&theme=modern-lilac" />
+src="https://github-readme-activity-graph.vercel.app/graph?username=quangminh241105&theme=tokyo-night&hide_border=true" />
 
 <h3 align="center">⚡Statistics⚡</h3>
 <div align="center">
