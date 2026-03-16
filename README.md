@@ -7,6 +7,12 @@ width="30px"><br></h1>
 I'm an IT freshman studying at RMIT University!
 </div>
 
+## 🚀 About Me
+💻 Full-Stack Developer  
+☁️ Cloud & DevOps Enthusiast  
+🖥️ Linux & System Administration Learner  
+🎓 IT Student at RMIT University
+
 ## 🌐 Socials:
 <div> <a href="https://twitter.com/quang_minh2411" target="_blank"><img
 src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
@@ -82,7 +88,7 @@ target="_blank"></a>
 <br><br>
 <h3 align="center">⚡Activity Graph⚡</h3>
 <img align="center"
-src="https://github-readme-activity-graph.vercel.app/graph?username=quangminh241105&theme=tokyo-night&hide_border=true" />
+src="https://github-readme-activity-graph.vercel.app/graph?username=quangminh241105&theme=tokyo-night&hide_border=true&days=180" />
 
 <h3 align="center">⚡Statistics⚡</h3>
 <div align="center">
